@@ -42,7 +42,7 @@ namespace LINQDPRUEBAS
                                             select i;
                 lbusuarios.Items.Add("Los usuarios inactivo son: " );
                 foreach (string i in users)
-                    lbusuarios.Items.Add("Los usuarios inactivos son " + i);
+                    lbusuarios.Items.Add(i);
             }
         }
     }
