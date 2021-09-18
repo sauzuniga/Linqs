@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\LINQDPRUEBAS\LINQDPRUEBAS\obj\Debug\LINQDPRUEBAS.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\LINQDPRUEBAS\LINQDPRUEBAS\obj\Debug\LINQDPRUEBAS.Form1.resources
+C:\Users\USER\source\repos\LINQDPRUEBAS\LINQDPRUEBAS\obj\Debug\LINQDPRUEBAS.Properties.Resources.resources
+C:\Users\USER\source\repos\LINQDPRUEBAS\LINQDPRUEBAS\obj\Debug\LINQDPRUEBAS.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\LINQDPRUEBAS\LINQDPRUEBAS\obj\Debug\LINQDPRUEBAS.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LINQDPRUEBAS\LINQDPRUEBAS\bin\Debug\LINQDPRUEBAS.exe.config
+C:\Users\USER\source\repos\LINQDPRUEBAS\LINQDPRUEBAS\bin\Debug\LINQDPRUEBAS.exe
+C:\Users\USER\source\repos\LINQDPRUEBAS\LINQDPRUEBAS\bin\Debug\LINQDPRUEBAS.pdb
+C:\Users\USER\source\repos\LINQDPRUEBAS\LINQDPRUEBAS\obj\Debug\LINQDPRUEBAS.exe
+C:\Users\USER\source\repos\LINQDPRUEBAS\LINQDPRUEBAS\obj\Debug\LINQDPRUEBAS.pdb
+C:\Users\USER\source\repos\LINQDPRUEBAS\LINQDPRUEBAS\obj\Debug\LINQDPRUEBAS.Form2.resources
